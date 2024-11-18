@@ -1,0 +1,37 @@
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+.contenido-resumen{
+    p{
+        margin-bottom: 1rem;
+    }
+
+    span{
+        color: v.$morado;
+        font-weight: v.$bold;
+        font-size: 1.8rem;
+    }
+}
+.contenedor-motivos{
+    padding: 3rem 0;
+    border-bottom: 1px solid v.$gris;
+    &:last-of-type{
+        margin-bottom: 4rem;
+    }
+}
+
+.contenido-resumen-vacaciones{
+    h3{
+        border-bottom: 1px solid v.$gris;
+    }
+    
+    p{
+        margin-bottom: 1rem;
+    }
+
+    span{
+        color: v.$morado;
+        font-weight: v.$bold;
+        font-size: 1.8rem;
+    }
+}

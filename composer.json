@@ -1,0 +1,22 @@
+{
+    "name": "administrador/app-permisos-vamos",
+    "description": "Proyecto de Sistemas",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MVC\\": "./",
+            "Controllers\\":"./controllers",
+            "Models\\":"./Models",
+            "Classes\\":"./classes"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Leota",
+            "email": "leota@cryptolab.net"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}

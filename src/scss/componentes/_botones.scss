@@ -1,0 +1,16 @@
+@use 'base/variables' as v;
+@use 'base/mixins' as m;
+
+.boton{
+    @include m.boton(v.$morado,v.$blanco);
+    margin: 0 auto;
+    margin-top: 5rem;
+}
+
+.boton-aprobar{
+    @include m.boton(v.$morado, v.$blanco);
+}
+
+.boton-rechazar{
+    @include m.boton(v.$rojo, v.$blanco);
+}
