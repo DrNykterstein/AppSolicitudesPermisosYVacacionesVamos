@@ -1,6 +1,8 @@
 # AppSolicitudesPermisosYVacacionesVamos
 Proyecto De Sistemas de Información II 
+## Requisitos Previos
 
+Asegúrate de tener instalado PHP en tu sistema. Puedes verificar la instalación ejecutando el siguiente comando en tu terminal: php -v
 Si PHP no está instalado, puedes descargarlo desde [php.net](https://www.php.net/downloads).
 
 ## Cómo Ejecutar la Aplicación
