@@ -1,5 +1,5 @@
 # AppSolicitudesPermisosYVacacionesVamos
-Proyecto De Sistemas de Información II 
+Proyecto De Sistemas de Información II para le Gestion de Permisos y Vacaciones
 ## Requisitos Previos
 
 Asegúrate de tener instalado PHP en tu sistema. Puedes verificar la instalación ejecutando el siguiente comando en tu terminal: php -v
