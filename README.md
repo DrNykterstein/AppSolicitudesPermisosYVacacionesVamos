@@ -1,5 +1,11 @@
 # AppSolicitudesPermisosYVacacionesVamos
 Proyecto De Sistemas de Información II para la Gestion de Permisos y Vacaciones
+
+# Tecnologias Utilizadas
+Backend: PHP 8
+Fronted: Saas y JS
+Base de Datos MySQL
+
 ## Requisitos Previos
 
 Asegúrate de tener instalado PHP en tu sistema. Puedes verificar la instalación ejecutando el siguiente comando en tu terminal: php -v
